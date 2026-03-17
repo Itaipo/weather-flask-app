@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-עכש
+
 LAT = 32.0853
 LON = 34.7818
 
